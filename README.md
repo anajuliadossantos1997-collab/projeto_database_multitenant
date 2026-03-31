@@ -12,3 +12,4 @@ Este repositório contém a infraestrutura de dados para um sistema que suporta 
 #Como utilizar:
 1. Certifique-se de ter o PostgreSQL instalado.
 2. Crie a pasta física em seu sistema para o Tablespace (ex: `C:\dados_postgres\faster_datas`).
+3. Execute o arquivo 'setup_db.sql'.
